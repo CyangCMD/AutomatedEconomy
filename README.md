@@ -1,6 +1,6 @@
-# AutomatedEconomy
+# AutomatedEconomyInitiative
 
-The Automated Economy Initiative is founding a new field — one that existing economics, governance theory, and social science are not equipped to handle.
+The Automated Economy Initiative is founding a new field - one that existing economics, governance theory, and social science are not equipped to handle.
 This is not commentary on AI. It is the construction of a rigorous intellectual framework for civilization after the assumptions of scarcity, human labor, and institutional continuity no longer hold.
 
 
