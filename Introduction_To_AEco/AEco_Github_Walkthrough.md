@@ -1,9 +1,9 @@
 # AEco Github Walkthrough
-
+---------------------------------------
 From: Introduction to AEco
 Date: March 26, 2026
 Author: Cyang
--------------------------------------------------
+---------------------------------------
 
 This is the walkthrough of the AEco Github. All contents are modularized and follow a strict
 assessment protocol to ensure submissions are within respective vectors. Below are the modulars for AEco and what they represent:
