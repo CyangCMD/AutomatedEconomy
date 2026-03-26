@@ -20,7 +20,6 @@ These are not edge cases or long-run concerns. They are structural failures in t
 
 The Automated Economy Initiative would re-evaluate each domain of society & provide an answer for each core question: 
 
-
 ______________________________________________________________________________________________________________
 |        Domain         |                                    Core Question                                   |
 |-----------------------|------------------------------------------------------------------------------------|
@@ -28,25 +27,43 @@ ________________________________________________________________________________
 |  Capital & Ownership  |   Who owns the means of ownership & what does it imply about capital allocation?   |
 |  Governance & Policy  |  What role would governance play in a world of agentic intelligence?                |
 |   Economic Modeling   |How does value get modeled and allocated when the primary inputs are no longer human?|
-|        Ethics         |                                                                                    |
-|  Geopolitics & Power  |                                                                                    |
-|   Social Contracting  |                                                                                    |
-|  Culture & Meaning    |                                                                                    |                                                                                  |
+|        Ethics         |  What responsibility are we endowed upon with AI technology for societal cohesion? |
+|  Geopolitics & Power  |   How would the race for AI define the next century of power dynamics?             |
+|  Culture & Meaning    |  What can societies do once AI detaches meaning from value creation?               |
 
 
 # Founding Axioms
 
-The Automated Economy Initiative has identified these key axioms past frameworks don't address. Any work that wishes to be contributed into the Initiative MUST build
-themselves on top of them, not without them.
+The Automated Economy Initiative has identified these key axioms past frameworks don't address. Any work that wishes to be contributed into the Initiative MUST build themselves on top of them, not without them.
 
-- Labor is a diminishing input: Human labor is being marginalized in value as scarcity-shifts reduce its necessity. Frameworks of old would be obsolete lest they
-depend on human-centric aggregates.
+- Labor is a diminishing input: Human labor is being marginalized in value as scarcity-shifts reduce its necessity. Frameworks of old would be obsolete lest they depend on human-centric aggregates.
 
 - Abundance does not solve distribution: A post-scarcity economy does not automatically produce equity. The political economy of plenty is as contested as the political economy of scarcity, and less studied.
 
-- 
+- The shift of power from decentralized intelligence will end existing power structures. How societies respond to such
+will define the coming century of societal dynamics, and it won't be easy to undo.
+
+- The exponential nature of AI contradicts pre-existing patterns of scarcity-shifts. The idea that scarity-shifts would remain linear in knowledge/intelligent bottlenecks will end, completely removing humans from value-creation.
 
 
-# Status of The Initiative
+# Future of The Initiative
 
-Currently under construction. We will release a Version 1.0 once the skeleton of the Initiative is publishd.
+The Automated Economy Initiative's aim is to become an open reference for every class of people, a reference where everyday civilians, researchers, tech enthusiasts and statisticians can extract value from the repository. Below are the kinds of extractions one can hope to receive:
+
+- Researchers - Foundational literature, novel frameworks, and empirical datasets to anchor new work in a field that has no established canon yet.
+
+- Policymakers - Actionable models and transition analyses to inform legislation before institutional lag makes the decisions for them.
+
+- Builders & Founders - A theoretical grounding for the economy they are actively constructing, whether they realize it or not.
+
+- Statisticians & Modelers - Raw data, displacement curves, and simulation scaffolding for quantitative work on labor, capital, and distribution dynamics.
+
+- Educators - Curriculum material for teaching economics, governance, and social theory in a context where the standard textbooks are already obsolete.
+
+- Journalists & Analysts - A rigorous reference point for covering AI's structural economic impact beyond the usual hype and panic cycles.
+
+- Everyday civilians - Plain-language documentation of what is actually happening to work, wages, ownership, and society, written for people who need to understand.
+
+# License
+---------------------
+Research content: CC BY 4.0. Code and models: MIT license.
