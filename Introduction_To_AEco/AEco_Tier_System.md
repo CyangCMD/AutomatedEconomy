@@ -1,10 +1,11 @@
-# AEco Tiers Explanation
+# AEco Tier System
 
 From: Introduction to AEco
 
 Date: March 26, 2026
 
 Author: Cyang
+
 ---------------------
 
 This is the walkthrough of the AEco Tier system. All contents are modularized and follow an assessment protocol to ensure submissions are aligned with it. Below are the tiers for AEco and what they represent:

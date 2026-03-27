@@ -17,8 +17,4 @@ Because this is a repository that can spans every paradigm, every modular that e
 
 The kind of protocol would vary between tiers and their respective modular. However the protocol follows a consistent template that lists the author's name, date, paper title, tree dependance, axiomatics and purpose.
 
-
-# Dependancy Trees 
-
-
-# Axiomatics
+( UNFINISHED )
