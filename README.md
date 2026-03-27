@@ -64,6 +64,7 @@ The Automated Economy Initiative's aim is to become an open reference for every 
 
 - Everyday civilians - Plain-language documentation of what is actually happening to work, wages, ownership, and society, written for people who need to understand.
 
+--------------------------------
 # License
----------------------
+
 Research content: CC BY 4.0. Code and models: MIT license.
