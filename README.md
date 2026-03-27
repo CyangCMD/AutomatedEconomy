@@ -4,6 +4,7 @@ The Automated Economy Initiative is founding a new field - one that existing eco
 This is not commentary on AI. It is the construction of a rigorous intellectual framework for civilization after the assumptions of scarcity, human labor, and institutional continuity no longer hold.
 
 
+
 # Why a New Initiative?
 
 Modern economics explains how humans allocate scarce resources. Modern governance assumes human agents making decisions within institutional structures. Modern social norms are built around work as the organizing principle of identity, status, and participation.
@@ -14,6 +15,7 @@ Governance has no framework for non-human agents. When an AI system makes a cons
 Scarcity assumptions collapse under AI-driven abundance. The core mechanism of price theory - scarcity signals driving allocation - degrades when marginal cost approaches zero across entire industries simultaneously.
 
 These are not edge cases or long-run concerns. They are structural failures in the current framework, already in motion. Patching existing theory is insufficient. The field this initiative is building starts from different axioms.
+
 
 
 # Domains & The Core Questions
@@ -32,6 +34,7 @@ ________________________________________________________________________________
 |  Culture & Meaning    |  What can societies do once AI detaches meaning from value creation?               |
 
 
+
 # Founding Axioms
 
 The Automated Economy Initiative has identified these key axioms past frameworks don't address. Any work that wishes to be contributed into the Initiative MUST build themselves on top of them, not without them.
@@ -46,7 +49,8 @@ will define the coming century of societal dynamics, and it won't be easy to und
 - The exponential nature of AI contradicts pre-existing patterns of scarcity-shifts. The idea that scarity-shifts would remain linear in knowledge/intelligent bottlenecks will end, completely removing humans from value-creation.
 
 
-# Future of The Initiative
+
+# Use Cases of The Initiative
 
 The Automated Economy Initiative's aim is to become an open reference for every class of people, a reference where everyday civilians, researchers, tech enthusiasts and statisticians can extract value from the repository. Below are the kinds of extractions one can hope to receive:
 
@@ -64,7 +68,8 @@ The Automated Economy Initiative's aim is to become an open reference for every 
 
 - Everyday civilians - Plain-language documentation of what is actually happening to work, wages, ownership, and society, written for people who need to understand.
 
---------------------------------
+
+
 # License
 
 Research content: CC BY 4.0. Code and models: MIT license.
