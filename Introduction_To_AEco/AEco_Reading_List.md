@@ -4,11 +4,11 @@ From: Introduction_To_AEco
 
 Date: March 27, 2026
 
-Author: Cyang
+Author: AEco
 
 -----------------------
 
-Below is a comprehensive reading and reference list for concepts that underlie AEco.
+Below is the full reading/reference list for writings that underlie AEco.
 
 
 (1) Cybernetics

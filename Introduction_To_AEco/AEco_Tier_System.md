@@ -4,7 +4,7 @@ From: Introduction_To_AEco
 
 Date: March 26, 2026
 
-Author: Cyang
+Author: AEco
 
 ---------------------
 
@@ -25,5 +25,3 @@ Paths from the founding layer begin to diverge from here. Abstractions from Leve
 - Tier 4
 
 The final tier of the skeleton. Each path matures on this level and can afford to be experimental. Downstream effects on culture, policies, economic conditions and whatnot are observed here. There is room to make hypotheses and experiment with custom additions.
-
-
