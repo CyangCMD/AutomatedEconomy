@@ -40,3 +40,14 @@ Below is a comprehensive reading and reference list for concepts that underlie A
 
 - Seeing Like a State
 - Atlas of AI
+
+
+(6) Hardware & Compute Economics
+
+- Chip War: The Fight for the World's Most Critical Technology
+- How the World Really Works
+
+
+(7) Labor & Automation
+
+- Automation and the Future of Work
