@@ -36,18 +36,18 @@ Below is the full reading/reference list for writings that underlie AEco.
 - Capital In the Twenty-First Century
 
 
-(5) Miscellaneous
-
-- Seeing Like a State
-- Atlas of AI
-
-
-(6) Hardware & Compute Economics
+(5) Hardware & Compute Economics
 
 - Chip War: The Fight for the World's Most Critical Technology
 - How the World Really Works
 
 
-(7) Labor & Automation
+(6) Labor & Automation
 
 - Automation and the Future of Work
+
+
+(7) Miscellaneous
+
+- Seeing Like a State
+- Atlas of AI
