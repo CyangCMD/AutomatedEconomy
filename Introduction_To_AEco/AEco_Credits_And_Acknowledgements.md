@@ -8,11 +8,7 @@ Author: AEco
 
 ------------------------------------
 
-@zdzllzh (Cyang) - Forerunner/Skeleton Assembler
+@azdzllzh (Cyang) - Forerunner/Skeleton Assembler
 
 @_gnomon (Gnome) - Epistemics Builder/Machine Learning + Hardware Expert
-
-@MBitcoiner (MuslimBitcoiner) - Economics Contributor/Blockchain Integrator
-
-
 
