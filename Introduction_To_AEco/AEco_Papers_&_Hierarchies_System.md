@@ -13,7 +13,7 @@ This is the Papers and Hierarchy System Explanation for AEco. Everything from ho
 
 # Axiomatic Files
 
-These are the "header files" of AEco files; papers that contain definitions, models and epistemics for its respective folder to implement. Any paper that uses a term or model defined in an Axiomatic File must declare that dependency explicitly in its header under the Axiomatics field, citing the Axiomatic File number and the specific definitions or models it draws from.
+These are the building blocks of AEco files; papers that contain definitions, models and epistemics for its respective folder to implement. Any paper that uses a term or model defined in an Axiomatic File must declare that dependency explicitly in its header under the Axiomatics field, citing the Axiomatic File number and the specific definitions or models it draws from.
 
 # Paper Template
 
