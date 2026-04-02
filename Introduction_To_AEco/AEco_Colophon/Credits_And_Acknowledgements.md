@@ -1,4 +1,4 @@
-# AEco Credits And Acknowledgements
+# Credits And Acknowledgements
 
 From: AEco_Colophon / Introduction_To_AEco
 
@@ -12,7 +12,7 @@ Author: AEco
 
 - @azdzllzh (Cyang) - Forerunner / Skeleton Assembler / Math Modeler
 
-- @_gnomon (Gnome) - Epistemics Builder / Machine Learning and Hardware Expert
+- @_gnomon (Gnome) - Epistemics Builder / Machine Learning and Firmware Expert
 
 
 # Tools Used
@@ -23,3 +23,4 @@ Author: AEco
 - Python 3.2
 - R
 - Markdown2LaTeX Converter
+- R-2-MD (Written by Cyang)

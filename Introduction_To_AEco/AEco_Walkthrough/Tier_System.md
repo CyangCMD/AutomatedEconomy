@@ -1,4 +1,4 @@
-# AEco Tier System
+# Tier System
 
 From: AEco_Walkthrough / Introduction_To_AEco
 

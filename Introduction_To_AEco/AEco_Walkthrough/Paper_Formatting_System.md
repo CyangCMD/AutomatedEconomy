@@ -1,4 +1,4 @@
-# AEco Papers & Hierarchies System
+# Paper Formatting System
 
 From: AEco_Walkthrough / Introduction_To_AEco
 
@@ -8,7 +8,7 @@ Author: AEco
 
 ---------------------------------
 
-This is the Papers and Hierarchy System Explanation for AEco. Everything from how papers are written to how hierarchies are utilized is explained down below:
+This is the Paper Formatting System Explanation for AEco. Everything from how papers are written to how hierarchies are utilized is explained down below:
 
 
 # Axiomatic Files
@@ -40,13 +40,13 @@ TEMPLATE:
 
 - Axiomatics {AXIOMATICS FILE NUMBER}**
 
-[DASH LINE GOES HERE]----[DASH LINE GOES HERE]
+[DASH LINE GOES HERE] - - - - [DASH LINE GOES HERE]
 
 - AXIOMS
 
-    - DEFINITION/MODEL 1
-    - DEFINITION/MODEL ...
-    - DEFINITION/MODEL N
+    - DEFINITION / MODEL 1
+    - DEFINITION / MODEL ...
+    - DEFINITION / MODEL N
 
 - [MODEL IS BUILT FROM AXIOMS HERE]
 

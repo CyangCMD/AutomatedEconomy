@@ -1,4 +1,4 @@
-# AEco Reading List
+# Reading List
 
 From: AEco_Colophon / Introduction_To_AEco
 
